@@ -1,0 +1,16 @@
+const samantha.freit  as = {
+  code: ['C++', 'HTML', 'CSS', 'JavaScript', 'Java'],
+  
+  certifications: ['Green Belt', ' ', ' '],
+  
+  technologies: {
+    tools: ['ReactJS', 'Git', '  ' '],
+    mobile: ['React Native'],
+    databases: ['SQL', 'MySQL', 'Docker'],
+    ides: ['VS Code', 'Visual Studio'],
+  },
+
+  methodologies	: ['Scrum', 'Six Sigma', 'Agile'],
+  interest		: ['Python', 'PHP', 'Kotlin', 'Angular', 'Bootstrap'],
+  otherCodes	: ['Pascal', 'Visual Basic', 'Delphi']
+}
