@@ -1995,6 +1995,11 @@
             height: 100px;
             position: absolute;
         }
+        
+        .reduzirImgfleet {
+            width: 50%;
+            align-content: space-between;
+        }
         /* List */
         
         ol {
